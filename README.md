@@ -1,6 +1,6 @@
-# 🛡️ 100+ Security Operation Center Tools
+# 🛡️Security Operation Center Tools
 
-Welcome to the ultimate curated list of **100+ Security Operation Center (SOC) Tools** for Blue Teams, Incident Responders, Threat Hunters, DFIR Analysts, and Security Engineers.
+Welcome to the ultimate curated list of **Security Operation Center (SOC) Tools** for Blue Teams, Incident Responders, Threat Hunters, DFIR Analysts, and Security Engineers.
 
 > This repository includes tools across categories such as:
 >
